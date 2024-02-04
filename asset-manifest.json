@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Services-Provider-Web-App-using-React/static/css/main.0e07a1aa.css",
+    "main.js": "/Services-Provider-Web-App-using-React/static/js/main.8f6f0ad9.js",
+    "static/media/4.jpg": "/Services-Provider-Web-App-using-React/static/media/4.0b0d0c554af5c6a7318c.jpg",
+    "static/media/1.png": "/Services-Provider-Web-App-using-React/static/media/1.2d7a0064f70f09e14972.png",
+    "static/media/6.jpg": "/Services-Provider-Web-App-using-React/static/media/6.f2c70791dfbd771d1e5d.jpg",
+    "static/media/slick.svg": "/Services-Provider-Web-App-using-React/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Services-Provider-Web-App-using-React/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Services-Provider-Web-App-using-React/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/Services-Provider-Web-App-using-React/index.html",
+    "static/media/slick.woff": "/Services-Provider-Web-App-using-React/static/media/slick.295183786cd8a1389865.woff",
+    "main.0e07a1aa.css.map": "/Services-Provider-Web-App-using-React/static/css/main.0e07a1aa.css.map",
+    "main.8f6f0ad9.js.map": "/Services-Provider-Web-App-using-React/static/js/main.8f6f0ad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e07a1aa.css",
+    "static/js/main.8f6f0ad9.js"
+  ]
+}
