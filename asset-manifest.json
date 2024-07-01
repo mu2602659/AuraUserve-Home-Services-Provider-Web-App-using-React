@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Services-Provider-Web-App-using-React/static/css/main.0e07a1aa.css",
-    "main.js": "/Services-Provider-Web-App-using-React/static/js/main.8f6f0ad9.js",
+    "main.js": "/Services-Provider-Web-App-using-React/static/js/main.adbc279f.js",
     "static/media/4.jpg": "/Services-Provider-Web-App-using-React/static/media/4.0b0d0c554af5c6a7318c.jpg",
     "static/media/1.png": "/Services-Provider-Web-App-using-React/static/media/1.2d7a0064f70f09e14972.png",
     "static/media/6.jpg": "/Services-Provider-Web-App-using-React/static/media/6.f2c70791dfbd771d1e5d.jpg",
@@ -11,10 +11,10 @@
     "index.html": "/Services-Provider-Web-App-using-React/index.html",
     "static/media/slick.woff": "/Services-Provider-Web-App-using-React/static/media/slick.295183786cd8a1389865.woff",
     "main.0e07a1aa.css.map": "/Services-Provider-Web-App-using-React/static/css/main.0e07a1aa.css.map",
-    "main.8f6f0ad9.js.map": "/Services-Provider-Web-App-using-React/static/js/main.8f6f0ad9.js.map"
+    "main.adbc279f.js.map": "/Services-Provider-Web-App-using-React/static/js/main.adbc279f.js.map"
   },
   "entrypoints": [
     "static/css/main.0e07a1aa.css",
-    "static/js/main.8f6f0ad9.js"
+    "static/js/main.adbc279f.js"
   ]
 }
