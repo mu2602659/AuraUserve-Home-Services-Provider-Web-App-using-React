@@ -37,21 +37,22 @@ Follow these steps to run the AuraUserve web application locally:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/mu2602659/AuraUserve-Home-Services-Provider-Web-App-using-React.git
-   cd aurauserve-web
+   cd aurauserve-webApp
 
 2. **Install Dependencies**
    ```bash
     npm install
 
 3. **Set Environment Variables**
-   ```bash
+
 REACT_APP_API_URL=http://localhost:5001
 
 4. **Run the Application**
    ```bash
-npm start
+    npm start
 
 5. **Run the Application**
+
 Open your web browser and navigate to http://localhost:3000 to view the application.
 
 ## Contributing
