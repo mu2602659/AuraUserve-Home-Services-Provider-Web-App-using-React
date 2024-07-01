@@ -17,7 +17,7 @@ AuraUserve is a revolutionary platform designed to simplify home maintenance ser
 
 ## Technologies Used
 
-- **Frontend**: React, Redux
+- **Frontend**: React
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: Firebase
